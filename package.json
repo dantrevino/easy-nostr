@@ -1,5 +1,5 @@
 {
-  "name": "easy-nostr",
+  "name": "@dan/easy-nostr",
   "version": "0.1.0",
   "description": "Nostr client building made easy.",
   "repository": {
@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "lru-cache": "^7.14.1",
-    "nostr-tools": "../nostr-tools"
+    "nostr-tools": "nostr-tools"
   }
 }
